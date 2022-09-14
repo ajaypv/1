@@ -1,0 +1,15 @@
+.Container{
+    display:flex;
+    height:60px;
+    background:blue;
+}
+
+
+.NavItems{
+    justify-content: space-between;
+    background:red;
+    flex-grow:2;
+    font-family: Mulish, sans-serif;
+}
+
+
